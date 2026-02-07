@@ -40,7 +40,7 @@ const Hero = () => (
 
     <div className="flex flex-col sm:flex-row gap-5 w-full sm:w-auto px-4">
       <a
-        href="https://mogtok.roybrains.com/signup/"
+        href="http://mogtok.roybrains.com/signup/"
         className="group px-8 py-4 bg-blue-600 text-white font-bold rounded-2xl hover:bg-blue-500 shadow-[0_0_20px_rgba(37,99,235,0.3)] transition-all flex items-center justify-center gap-2"
       >
         Try MogTok ERP
@@ -92,7 +92,7 @@ const MogTokPreview = () => (
           </div>
 
           <a
-            href="https://mogtok.roybrains.com"
+            href="http://mogtok.roybrains.com"
             className="group text-blue-400 font-bold flex items-center gap-2 text-lg hover:text-blue-300 transition-colors"
           >
             Visit mogtok.roybrains.com

@@ -21,7 +21,7 @@ export default function Header() {
         {/* Desktop Navigation */}
         <div className="hidden md:flex items-center space-x-10 text-sm font-semibold tracking-wide">
           <a
-            href="https://mogtok.roybrains.com"
+            href="http://mogtok.roybrains.com"
             target="_blank"
             className="text-slate-400 hover:text-blue-400 transition-colors flex items-center gap-1.5 uppercase tracking-widest"
           >
@@ -31,7 +31,7 @@ export default function Header() {
           <div className="h-6 w-px bg-slate-800" />
 
           <a 
-            href="https://mogtok.roybrains.com/signup/"
+            href="http://mogtok.roybrains.com/signup/"
             className="bg-blue-600 hover:bg-blue-500 text-white px-6 py-2.5 rounded-xl transition-all shadow-lg shadow-blue-900/20 active:scale-95"
           >
             Get Started
@@ -59,13 +59,13 @@ export default function Header() {
               Products
             </a>
             <a 
-              href="https://mogtok.roybrains.com" 
+              href="http://mogtok.roybrains.com" 
               className="text-lg font-medium text-slate-300 hover:text-blue-400 flex items-center gap-2"
             >
               MogTok ERP <ExternalLink className="w-4 h-4" />
             </a>
             <a 
-              href="https://mogtok.roybrains.com/signup/"
+              href="http://mogtok.roybrains.com/signup/"
               className="w-full bg-blue-600 text-white text-center py-4 rounded-2xl font-bold shadow-lg shadow-blue-900/40"
             >
               Get Started
