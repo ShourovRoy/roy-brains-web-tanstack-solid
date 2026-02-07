@@ -17,7 +17,12 @@ export const Route = createRootRoute({
         content: 'width=device-width, initial-scale=1',
       },
       {
-        title: 'TanStack Start Starter',
+        title: 'RoyBrains – Engineering Next-Gen SaaS Solutions',
+      },
+      {
+        name: 'description',
+        content:
+          'Led by Shourov Roy, RoyBrains builds scalable, intuitive software for the modern world. Explore our first beta release, MogTok ERP, and transform your business operations.',
       },
     ],
     links: [
